@@ -8,6 +8,10 @@ html {
   }
 }
 
+nav {
+    height: 75px; 
+}
+
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
@@ -17,6 +21,15 @@ html {
   min-height: 100%;
 }
 
+ul li {
+    font-size: 17px;
+}
+
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: url('/image/iamgeback.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-attachment: fixed; 
 }
