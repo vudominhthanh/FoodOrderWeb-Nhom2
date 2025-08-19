@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "FoodOrderWeb\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "FoodOrderWeb\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:33:25.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OwnerController.cs",
-              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Controllers\\OwnerController.cs",
-              "RelativeDocumentMoniker": "FoodOrderWeb\\Controllers\\OwnerController.cs",
-              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Controllers\\OwnerController.cs",
-              "RelativeToolTip": "FoodOrderWeb\\Controllers\\OwnerController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:29:15.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FoodOrderWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FoodOrderWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T08:51:43.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T08:51:36.807Z",
+              "WhenOpened": "2025-08-19T19:00:33.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Program.cs",
-              "RelativeDocumentMoniker": "FoodOrderWeb\\Program.cs",
-              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Program.cs",
-              "RelativeToolTip": "FoodOrderWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T08:25:30.956Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodOrderWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FoodOrderWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T16:39:34.616Z",
               "EditorCaption": ""
             }
           ]

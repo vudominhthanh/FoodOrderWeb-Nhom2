@@ -133,7 +133,6 @@ D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\sta
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\staticwebassets.development.json
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\FoodOrde.978008FB.Up2Date
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\FoodOrderWeb.dll
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\refint\FoodOrderWeb.dll
@@ -276,3 +275,4 @@ D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\bin\Debug\net8.0\run
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\FoodOrderWeb-Prj2\FoodOrderWeb\FoodOrderWeb\FoodOrderWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
