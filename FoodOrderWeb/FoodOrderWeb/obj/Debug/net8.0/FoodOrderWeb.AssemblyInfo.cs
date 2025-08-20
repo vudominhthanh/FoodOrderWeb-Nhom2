@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodOrderWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a66917669b5e3e62b19d7d1c472456f9f8a954dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96cfe9c9a8de1eb484560b7f894ec0e589257de1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodOrderWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodOrderWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
