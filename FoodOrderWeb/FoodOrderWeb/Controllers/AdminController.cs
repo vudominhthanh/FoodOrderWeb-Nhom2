@@ -23,7 +23,21 @@ namespace FoodOrderWeb.Controllers
         {
             return View(await _context.Users.ToListAsync());
         }
+        public IActionResult Dashboard()
+        {
+            // Đếm theo role
+            var totalUsers = _context.Users.Count();
+            var totalCustomers = _context.Users.Count(u => u.Role == 1);
+            var totalOwners = _context.Users.Count(u => u.Role == 2);
+            var totalAdmins = _context.Users.Count(u => u.Role ==3);
 
+            ViewBag.TotalUsers = totalUsers;
+            ViewBag.TotalCustomers = totalCustomers;
+            ViewBag.TotalOwners = totalOwners;
+            ViewBag.TotalAdmins = totalAdmins;
+
+            return View();
+        }
         // GET: Admin/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -152,5 +166,6 @@ namespace FoodOrderWeb.Controllers
         {
             return _context.Users.Any(e => e.Id == id);
         }
+
     }
 }
