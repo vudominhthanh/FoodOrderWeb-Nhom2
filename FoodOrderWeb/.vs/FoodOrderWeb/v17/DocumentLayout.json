@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|d:\\foodorderweb-prj2\\foodorderweb\\foodorderweb\\foodorderweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8CCBAF6-98D3-4B39-95A2-1CD35DD9B989}|FoodOrderWeb\\FoodOrderWeb.csproj|solutionrelative:foodorderweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FoodOrderWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FoodOrderWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-20T08:34:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FoodOrderWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T19:00:33.173Z",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FoodOrderWeb\\Models\\User.cs",
+              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Models\\User.cs",
+              "RelativeToolTip": "FoodOrderWeb\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:17:27.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FoodOrderWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FoodOrderWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodOrderWeb\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\FoodOrderWeb-Prj2\\FoodOrderWeb\\FoodOrderWeb\\FoodOrderWeb\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "FoodOrderWeb\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T16:39:34.616Z",
+              "WhenOpened": "2025-08-20T07:27:27.148Z",
               "EditorCaption": ""
             }
           ]
